@@ -7,3 +7,6 @@ The human arm can is simulated as three links, where the upper arm is the first 
 The lower part of the arm is connected to the wrist. The third part of the arm is the palm. 
 For simplification's sake, the rotation angle from a vertical position of the three human arm parts are denoted
 as Theta 1, 2 and 3 respectively.
+
+This repo contains euler-lagrange dynamics which has been obtained by hand, but the answers are crosschecked with
+the answer of mathematica. The mathematica notebooks are also present in the repo.
